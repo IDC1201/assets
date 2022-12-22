@@ -177,7 +177,7 @@ module.exports = {
       symbol: "bLUNA",
       name: "boneLuna",
       token: "terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
-      icon: "https://i.imgur.com/8CpJdcB.jpeg",
+      icon: "https://gravedigger.backbonelabs.io/boneluna.png",
       decimals: 6
     },
     terra1d4j9lsl453mkvtlg4ctw8y52rdkhafsaefug0hq0z06phczuvvvs7uq0vg: {
@@ -186,6 +186,22 @@ module.exports = {
       name: "INTERCHAIN DAO COIN",
       token: "terra1d4j9lsl453mkvtlg4ctw8y52rdkhafsaefug0hq0z06phczuvvvs7uq0vg",
       icon: "https://raw.githubusercontent.com/IDC1201/IDC/f22b0f203867414b6473f8e8a935c3edf5524296/ASSET/IDC.png",
+      decimals: 6
+    },
+    terra1qx284aak0wl7vrvlsc6cwcsn6xwajragkh6cjqj87m9p34hx5l2s22p3cp: {
+      protocol: "Tuna Money",
+      symbol: "TUNA",
+      name: "Tuna Token",
+      token: "terra1qx284aak0wl7vrvlsc6cwcsn6xwajragkh6cjqj87m9p34hx5l2s22p3cp",
+      icon: "https://s3.ap-southeast-2.wasabisys.com/tuna/tunatoken.png",
+      decimals: 6
+    },
+      terra1kkpf3f049trkyscv0av2pa9ad02dzls7f6m8s24q07ehetggytesru7qqp: {
+      protocol: "Brand Governance Network",
+      symbol: "BGT",
+      name: "Brand Governance Token",
+      token: "terra1kkpf3f049trkyscv0av2pa9ad02dzls7f6m8s24q07ehetggytesru7qqp",
+      icon: "https://s3.ap-southeast-2.wasabisys.com/bgt/bgtoken.png",
       decimals: 6
     },
   },
@@ -1721,13 +1737,21 @@ module.exports = {
       icon: "https://s2.coinmarketcap.com/static/img/coins/64x64/16800.png",
       decimals: 8,
     },
+    terra1vsyyg4rs483uzd7jzw5fqqlm2q5n2yd37yylfc: {
+      protocol: "BAZ",
+      symbol: "BAZ",
+      name: "BAZ",
+      token: "terra1vsyyg4rs483uzd7jzw5fqqlm2q5n2yd37yylfc",
+      icon: "https://raw.githubusercontent.com/BAZustc/BAZ-CORE/main/BAZ.png",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1ss9zz4873vk4dd8dvua0vm83m6s8k7ctwp9efac0arytn6jthfgsy2d4a9: {
       protocol: "YFD",
       symbol: "YFD",
       name: "Y-Foundry DAO",
-      token: "terra1ss9zz4873vk4dd8dvua0vm83m6s8k7ctwp9efac0arytn6jthfgsy2d4a9",
+      token: "terra1293l9rgqk5vxndaeqmengssg3pdch57qpepgslh7p2sg3lqd87rss8du4s",
       icon: "https://raw.githubusercontent.com/Y-Foundry-Dao/brand-assets/main/contract/pisco-1/cw20-yfd.svg",
       decimals: 6
     }

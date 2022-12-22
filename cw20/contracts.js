@@ -63,7 +63,7 @@ module.exports = {
     terra1l2nd99yze5fszmhl5svyh5fky9wm4nz4etlgnztfu4e8809gd52q04n3ea: {
       protocol: "boneLuna",
       name: "boneLuna LSD",
-      icon: "https://i.imgur.com/8CpJdcB.jpeg",
+      icon: "https://gravedigger.backbonelabs.io/boneluna.png",
     },
     terra1d4j9lsl453mkvtlg4ctw8y52rdkhafsaefug0hq0z06phczuvvvs7uq0vg: {
       protocol: "INTERCHAIN DAO COIN",
@@ -1795,6 +1795,11 @@ module.exports = {
       protocol:"INTERCHAIN DAO COIN",
       name: "IDC",
       icon: "https://gateway.pinata.cloud/ipfs/bafybeifpwyro73qvpsg2xulgqgkvrfbw5jtqxrkzsryq6kl3f4o23ohai4/IDC.png",
+    },
+    terra1vsyyg4rs483uzd7jzw5fqqlm2q5n2yd37yylfc: {
+      protocol:"BAZ",
+      name: "BAZ",
+      icon: "https://raw.githubusercontent.com/BAZustc/BAZ-CORE/main/BAZ.png",
     },
   },
   testnet: {
